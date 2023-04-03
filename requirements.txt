@@ -1,0 +1,4 @@
+requests
+json
+pandas
+google.oauth2
