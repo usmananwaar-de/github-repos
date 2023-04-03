@@ -8,5 +8,24 @@ This repo project consist of two parts:
 So let's start with the GitHub repos project.
 
 <h2 align="center">GitHub Repos</h2>
+<h3>Prerequisites</h3>
+
+- Python 3.6 or later
+- [GitHub API](https://docs.github.com/en/rest/quickstart?apiVersion=2022-11-28 "Get Github API")
+- [Google Authentication](https://stackoverflow.com/questions/58988362/google-oauth-2-0-using-python-for-gcp-bigquery "Read this discussion")
+
+<h3>Installation</h3>
+
+- Clone the repository:
+
+```bash
+git clone https://github.com/usmananwaar-de/github-repos/
+```
+
+- Install the required libraries by running the command
+
+```bash
+pip install -r requirements.txt
+```
 
 <h2 align="center">eCommerce Logical Database Design</h2>
