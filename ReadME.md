@@ -34,7 +34,7 @@ Open the **_github-repos-etl.ipynb_** notebook and replace <code>< Token ></code
 - Run the code and repos data after cleaning and transformation will be available in your google bigquery account. <h6>Make sure your project id in google.oauth is same as in script</h6>
 
 <h3>EDA SQL Queries</h3>
-Copy SQL queries (you can find in [.sql file](/eda-desc-queries.sql)) and run on Google BigQuery
+Copy SQL queries from [.sql file](/eda-desc-queries.sql) and run on Google BigQuery
 
 <h2 align="center">eCommerce Logical Database Design</h2>
 
