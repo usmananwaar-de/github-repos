@@ -28,4 +28,8 @@ git clone https://github.com/usmananwaar-de/github-repos/
 pip install -r requirements.txt
 ```
 
+- Write GitHub API
+
+Open the **_github-repos-etl.ipynb_** notebook and replace <code>< Token ></code> with your github api
+
 <h2 align="center">eCommerce Logical Database Design</h2>
