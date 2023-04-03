@@ -35,4 +35,4 @@ Open the **_github-repos-etl.ipynb_** notebook and replace <code>< Token ></code
 
 <h2 align="center">eCommerce Logical Database Design</h2>
 
-![Logo](eCommerce-data-modeling.ipynb "Logical Database Design")
+![Picture](/eCommerce-data-modeling.png "Logical Database Design")
