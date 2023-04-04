@@ -1,8 +1,9 @@
 <h1 align="center">EDA Analysis on GitHub Repos Data</h1>
 This project is divided into two fascinating parts that are sure to capture your attention and leave you feeling satisfied.
 
-- Firstly, we will use the powerful GitHub API to collect the latest data from various repositories. But we don't stop there! Before sending this data to Google BigQuery, we will meticulously clean and transform it to ensure its accuracy and relevance. Once we've got our data in tip-top shape, we will embark on an EDA analysis journey within Google BigQuery, where we will explore and describe the patterns and insights that emerge from this fascinating data.
-- In the second part of this project, we will turn our attention to building a logical database design for an eCommerce website. This design will be used to automate the process of signing up vendors, making the whole process seamless and efficient. With our attention to detail and commitment to excellence, we're sure to produce a database design that will leave you in awe.
+- Firstly, we will be using the GitHub API to gather up-to-date data from various repositories. However, before we send this data to Google BigQuery, we will thoroughly clean and transform it to ensure its accuracy and relevance. Once we have the data ready, we will carry out an exploratory data analysis within Google BigQuery to discover patterns and insights in the data.
+
+- In the second part of the project, we will focus on designing a logical database for an eCommerce website. This database will automate the process of signing up vendors, making it more efficient and seamless.
 
 So let's start with the GitHub repos project.
 
